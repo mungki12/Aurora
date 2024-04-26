@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Unearthed Arcana</name>
+		<description>blabla bla</description>
+		<author>me</author>
+	</info>
+	<files>
+		<file name="EAOHAB_Race.xml" url="C:\Users\danie\OneDrive\Documents\5e Character Builder\custom\user\EAOHAB_Race.xml" /> <!--EOHAB-->
+		
